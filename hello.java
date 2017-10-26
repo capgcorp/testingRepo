@@ -4,4 +4,10 @@ public class Hello
   {
     system.out.println("hello");
   }
+  
+  public static func2()
+  {
+    
+  }
+  
 }
